@@ -10,11 +10,7 @@ I am a 3rd year student of IIT Guwahati with a strong focus on app and backend d
 
 Here are some of the app development projects I've worked on:
 
-1. **MyChats** - This project involved creating a mobile application for a specific purpose. It utilized technologies such as [list the relevant technologies or frameworks used]. You can find the source code and documentation [here](link_to_project1).
-
-2. **Hotshot** - Another exciting project I worked on was an app that focused on [describe the main functionality or purpose of the app]. It was built using [mention the technologies or frameworks used]. Check out the source code and more details [here](link_to_project2).
-
-3. **IRBS** - In this project, I developed an app that aimed to [provide a brief description of the app's objective or target audience]. It leveraged technologies such as [Flutter and NodeJS]. To learn more, visit the project repository [here](https://github.com/hardikroongta8/irbs).
+1. **MyChats** - This project involved creating a client side application for realtime chatting. It utilized technologies such as Flutter, firebase and Socket.io. You can find the source code and documentation [here](https://github.com/hardikroongta8/mychats_client).
 
 Feel free to explore these projects and see how I approached app development challenges. Your feedback and suggestions are always welcome.
 
@@ -22,7 +18,7 @@ Feel free to explore these projects and see how I approached app development cha
 
 Here are some of the backend development projects I've contributed to:
 
-1. **MyChats** - This project involved developing the backend infrastructure for a web application. It utilized [Sockets.io, NodeJS, ExpressJS and MongoDB] to handle tasks such as [Realtime changes, fetching and storing data]. You can find more details and the source code [here](https://github.com/hardikroongta8/mychats_backend).
+1. **MyChats** - This project involved developing the backend infrastructure for a web application. It utilized Sockets.io, NodeJS, ExpressJS and MongoDB to handle tasks such as realtime changes, fetching and storing data. You can find more details and the source code [here](https://github.com/hardikroongta8/mychats_backend).
 
 Feel free to explore these backend development projects and see how I tackled various challenges. Your feedback and suggestions are always appreciated.
 
