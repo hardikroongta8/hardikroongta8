@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Hardik Roongta
-- 👀 I’m interested in App development, Web development, Competitive Programming
-- 🌱 Currently learning App development using Flutter
-- 📫 You can mail me on r.hardik@iitg.ac.in
-
 # Welcome to My GitHub Profile!
 
 Hello and welcome to my GitHub profile! I'm glad you're here. This is the place where you can find my projects related to app development and backend development. Let's dive in and explore the work I've done in these areas.
