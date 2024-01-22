@@ -1,4 +1,4 @@
-### Hi there, I’m Hardik.
+# Hi there, I’m Hardik.
 
 ## ABOUT ME
 - Pursuing BTech in **Electronics and Communication Engineering** at **IIT Guwahati**.
