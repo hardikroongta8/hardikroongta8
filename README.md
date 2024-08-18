@@ -7,11 +7,11 @@
 ## My Github Stats
 <div display="flex">
   <img src="https://raw.githubusercontent.com/hardikroongta8/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/hardikroongta8/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikroongta8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 <br/>
 <div display="flex">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikroongta8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img src="https://raw.githubusercontent.com/hardikroongta8/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
   <img src="https://github-readme-stats.vercel.app/api?username=hardikroongta8&show_icons=true&title_color=00e7ff&hide_border=true&icon_color=00e7ff&text_color=ffffff&bg_color=060A0CD0">
   </div>  
 <br/>
