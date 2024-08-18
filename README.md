@@ -25,7 +25,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/hardikroongta8"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/hardikroongta8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="https://x.com/hardikroongta8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/hardikroongta8"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/hardikroongta8"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+  <a href="https://x.com/hardikroongta8"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
