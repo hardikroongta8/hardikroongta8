@@ -1,9 +1,5 @@
 # Hi there, I’m Hardik.
 
-## ABOUT ME
-- Pursuing BTech in **Electronics and Communication Engineering** at **IIT Guwahati**.
-- App Team Lead at Student's Web Committee, IIT Guwahati.
-
 ## My Github Stats
 <div display="flex">
   <img width="40%" src="https://raw.githubusercontent.com/hardikroongta8/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
