@@ -1,5 +1,3 @@
-# Hi there, I’m Hardik.
-
 ## My Github Stats
 <div display="flex">
   <img width="40%" src="https://raw.githubusercontent.com/hardikroongta8/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
